@@ -1,5 +1,5 @@
 # etl_angela-289
-# ETL Midterm Project – Angela (ID: 289)
+# ETL Midsemester Project – Angela (ID: 289)
 
 ## Project Overview
 This project demonstrates an ETL (Extract, Transform, Load) process applied to sales data. It focuses on cleaning and enriching both a full dataset and an incremental update, followed by loading the final output into a structured format for analysis.
